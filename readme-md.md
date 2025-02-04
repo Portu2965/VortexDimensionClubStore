@@ -79,26 +79,4 @@ vortex-dimension-club/
 - MongoDB 6.0 o superior
 - Maven 3.6 o superior
 
-### Instalación
-
-
-## Características
-
-### Gestión de Productos
-- Registro de productos con múltiples variantes
-- Control de stock por talla y color
-- Seguimiento de estadísticas de ventas
-- Gestión de imágenes por color
-
-### Control de Inventario
-- Seguimiento de stock disponible
-- Control de productos reservados
-- Historial de ventas
-- Estadísticas de visitas y ventas
-
-### Búsqueda y Filtrado
-- Búsqueda por tipo de producto
-- Filtrado por fechas
-- Búsqueda por SKU
-- Filtrado por estado
 
